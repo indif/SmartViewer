@@ -42,10 +42,7 @@
         'application/json' : ['json', 'geojson', 'topojson'],
         'image/crn' : ['crn'],
         'image/ktx' : ['ktx'],
-        'model/fbx' : ['fbx'],
-        'model/gltf+json' : ['gltf'],
-        'model/gltf.binary' : ['bgltf', 'glb'],
-        'text/plain' : ['glsl']
+        'model/assbin' : ['assbin']
     });
 
     var app = express();
