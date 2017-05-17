@@ -1,0 +1,10 @@
+{
+  "name": "smartviewer",
+  "version": "1.0.0",
+  "devDependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.14.0",
+    "request": "^2.79.0",
+    "yargs": "^7.0.2"
+  }
+}
